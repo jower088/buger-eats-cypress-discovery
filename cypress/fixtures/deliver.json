@@ -1,0 +1,51 @@
+{
+    "signup":{
+        "name": "Jorge Silva",
+             "cpf": "00000012341",
+             "email": "jower@teste.com",
+             "whatsapp": "11999995566",
+             "address":{
+                 "postalcode":"06293110",
+                 "street":"Rua Sebastião Picão",
+                 "number":"10",
+                 "details":"apto12",
+                 "district":"Ayrosa",
+                 "city_state":"Osasco/SP"
+             },
+             "delivery_method":"Moto",
+             "cnh":"CNH.jpg"
+    },
+    "cpf_inv": {
+        "name": "Angela Farofa",
+             "cpf": "i0000012blab",
+             "email": "angel@teste.com",
+             "whatsapp": "11999995566",
+             "address":{
+                 "postalcode":"06293110",
+                 "street":"Rua Sebastião Picão",
+                 "number":"10",
+                 "details":"apto12",
+                 "district":"Ayrosa",
+                 "city_state":"Osasco/SP"
+             },
+             "delivery_method":"Moto",
+             "cnh":"CNH.jpg"
+    },
+    "email_inv":{
+        "name": "Jordan Santos",
+             "cpf": "00000012341",
+             "email": "jordan.com.br",
+             "whatsapp": "11999995566",
+             "address":{
+                 "postalcode":"06293110",
+                 "street":"Rua Sebastião Picão",
+                 "number":"10",
+                 "details":"apto12",
+                 "district":"Ayrosa",
+                 "city_state":"Osasco/SP"
+             },
+             "delivery_method":"Moto",
+             "cnh":"CNH.jpg"
+}
+
+}
